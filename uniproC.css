@@ -537,7 +537,7 @@ form input{
 .mainfooter{
     background-color: rgba(255, 255, 255, 0.098);
     color: white;
-    height: 16pc;
+    height: 18pc;
     width: 100vw;
     justify-content: center;
     display: flex;
@@ -656,7 +656,9 @@ form input{
         cursor: pointer;
     } */
     .mainmain1{
-        background: url(images/herobg\(2\).jpg);
+        background: url(images/img8.png);
+        background-repeat: no-repeat;
+        background-size: cover;
         height: 65pc;
         color: white;
     }
